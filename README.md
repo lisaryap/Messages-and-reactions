@@ -1,6 +1,6 @@
 # Анализ активности в чатах Slack
 [Презентация](https://docs.google.com/presentation/d/1ThvmChjVo_Uw4cHfgBDhNXiTT18hcJwcXNV2B-n-Xqg/edit?usp=drive_link)              
-[ipynb](https://github.com/lisaryap/Portfolio/blob/main/Messages%20and%20reactions/Practicum%20posts%20-%20Elizaveta%20Ryapolova.ipynb)
+[ipynb](https://github.com/lisaryap/Messages-and-reactions/blob/main/Practicum%20posts%20and%20reactions.ipynb)
 
 ## Описание проекта
 
